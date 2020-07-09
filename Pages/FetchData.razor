@@ -8,6 +8,7 @@
 <p>This component demonstrates fetching data from the server.</p>
 
 <h1 style="color:red;">@State.Value.IsFetching</h1>
+<button class="btn btn-primary" @onclick="FetchAgain">Fetch Again</button>
 
 @if (forecasts == null)
 {
@@ -40,11 +41,17 @@ else
 
 @code {
     private WeatherForecast[] forecasts;
+    HttpClient _client;
 
     protected override async Task OnInitializedAsync()
     {
-        var client = Http.CreateClient("local");
-        forecasts = await client.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        _client = Http.CreateClient("local");
+        forecasts = await _client.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+    }
+
+    async Task FetchAgain()
+    {
+        forecasts = await _client.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
     }
 
     public class WeatherForecast
