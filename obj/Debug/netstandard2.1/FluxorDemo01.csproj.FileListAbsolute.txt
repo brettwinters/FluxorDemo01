@@ -193,12 +193,10 @@ C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\Razor\_
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\FluxorDemo01.RazorTargetAssemblyInfo.cache
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\FluxorDemo01.csproj.CopyComplete
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
-C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
@@ -222,7 +220,6 @@ C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integri
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
-C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\SIrX0gUuSJrdu4bz6saALUpif6BJVYDRtD6LeGyJxGY=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\xNu9msKR6UyqXKPEG9xzsrY-ZYl6nkNKCG3KfdrCz4k=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\mRd6TL4DYldo1ko9czkjEDcoiPdMPrJxz3dekwV6OOY=.hash
@@ -386,4 +383,7 @@ C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\FluxorD
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\FluxorDemo01.pdb
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\EOdS_25p1YQRHkOhuSs9bprk-UVfc4p93K5q7K0ZduU=.hash
 C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\00NW4bP3S0egQ3sX0IW4b6m3h9NGHFEfwxdG-6C34y0=.hash
-C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\fJh1vJ40XivAI5RL1MKfp6JybOGg8s1LNtr0haMAWxg=.hash
+C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\WkuXkEV--B1J2kYqjuSPxgHubOHALmA548PhKTed2JE=.hash
+C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:\Users\brettwinters\Source\Repos\FluxorDemo01\obj\Debug\netstandard2.1\integrity\eit_5Eywm12NlGgFm1_-u1O3NsgugRkachN7jdZ-6ck=.hash
